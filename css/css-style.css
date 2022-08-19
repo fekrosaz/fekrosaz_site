@@ -1584,7 +1584,7 @@ Join Our Team Area Style
   position: relative;
   font-weight: 600;
   font-size: 16px;
-  color: var(--optional-color);
+  color: var(--main-color);
   padding-left: 70px;
   margin-bottom: 15px;
   display: inline-block;
@@ -1597,7 +1597,7 @@ Join Our Team Area Style
   left: 0;
   width: 60px;
   height: 2px;
-  background-color: var(--optional-color);
+  background-color: var(--main-color);
 }
 
 .join-our-team-content h2 {
@@ -1865,7 +1865,7 @@ Get A Quote Area Style
 .get-quote-from {
   max-width: 700px;
   margin-left: auto;
-  background-color: yellow;
+  background-color: var(--main-color);
   padding: 100px;
   margin: auto;
 }

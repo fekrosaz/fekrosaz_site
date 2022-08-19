@@ -218,7 +218,7 @@ Header Area Style
 Navbar Area Style
 ======================================================*/
 .navbar-area .navbar-brand {
-  margin-right: 0;
+  margin-right: 30px;
   z-index: 3;
   padding: 15px 0;
 }
